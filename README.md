@@ -1,4 +1,4 @@
-# TypeScript Hello World Webpage
+# TypeScript page
 
 A clean, minimal TypeScript starter project that shows how to render a simple greeting in the browser using a basic HTML + JavaScript workflow.
 
